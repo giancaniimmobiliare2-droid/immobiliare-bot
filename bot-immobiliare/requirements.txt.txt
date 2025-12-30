@@ -1,0 +1,4 @@
+gspread
+oauth2client
+jinja2
+requests
